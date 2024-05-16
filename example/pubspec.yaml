@@ -3,14 +3,14 @@ description: A new Flutter project.
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: '>=3.3.4 <4.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
 
-  cupertino_icons: ^0.1.2
-  flutter_weather_icons: 1.0.2
+  fl_weather_icons:
+    path: ../
 
 dev_dependencies:
   flutter_test:
